@@ -1,0 +1,23 @@
+@import "~bootstrap";
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;600;700&display=swap');
+
+@import "./variables";
+
+$theme-colors: (
+        'primary': $boundary-blue,
+        'secondary': $boundary-light-blue,
+        'success': $boundary-green,
+        'info': $boundary-light-grey,
+        'warning': $boundary-yellow,
+        'light': $boundary-off-white,
+        'dark': $boundary-black
+);
+
+$font-family-sans-serif: 'Balow', Arial;
+
+body {
+  font-family: $font-family-sans-serif !important;
+}
+
+@import "~bootstrap";
