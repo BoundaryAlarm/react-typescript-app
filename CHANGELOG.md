@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/BoundaryAlarm/react-typescript-app/compare/v1.1.0...v1.1.1) (2020-09-29)
+
+
+### Bug Fixes
+
+* corrected font style, set defaults. ([3e9c93e](https://github.com/BoundaryAlarm/react-typescript-app/commit/3e9c93e0489ea3097107888d74101021dbd5c963))
+
 # [1.1.0](https://github.com/BoundaryAlarm/react-typescript-app/compare/v1.0.2...v1.1.0) (2020-09-29)
 
 
