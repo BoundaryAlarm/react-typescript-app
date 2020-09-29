@@ -14,10 +14,14 @@ $theme-colors: (
         'dark': $boundary-black
 );
 
-$font-family-sans-serif: 'Balow', Arial;
+$font-family-sans-serif: 'Barlow-Regular', Arial;
 
 body {
   font-family: $font-family-sans-serif !important;
+  letter-spacing: 0 !important;
+  // font-size: 21px;
+  line-height: 25.200000762939453px !important;
+  font-style: normal !important;
 }
 
 @import "~bootstrap";
