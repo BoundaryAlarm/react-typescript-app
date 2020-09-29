@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/BoundaryAlarm/react-typescript-app/compare/v1.0.2...v1.1.0) (2020-09-29)
+
+
+### Features
+
+* Added Boundary styling defaults to template, added sample of themes ([229801a](https://github.com/BoundaryAlarm/react-typescript-app/commit/229801ab4a921ca95cc10f3bdc8433bc2a28ab67))
+
 ## [1.0.2](https://github.com/BoundaryAlarm/react-typescript-app/compare/v1.0.1...v1.0.2) (2020-09-29)
 
 
